@@ -6,7 +6,7 @@ it will scrap all the link on the page and look for:
 
 **attachment.php?attachmentid=823974&d=1320428753**
 
-and will download the content to your server.
+and will download the content to your server (current only saving .jpg attachment).
 
 
 ----------
